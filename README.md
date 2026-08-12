@@ -9,7 +9,7 @@ A full-stack analytics platform built over a synthetic Discord activity dataset 
 Before running the application, make sure you have:
 1. **Docker & Docker Compose** (Recommended for 1-command startup)
 2. **Node.js 20+** and **Python 3.11+** (Only needed if running locally without Docker)
-3. *(Optional)* Free LLM API Keys:
+3. Free LLM API Keys:
    - **Groq API Key** (100% Free): [console.groq.com/keys](https://console.groq.com/keys)
    - **Google Gemini API Key** (100% Free): [aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
 
