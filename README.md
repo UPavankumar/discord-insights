@@ -12,7 +12,6 @@ Before running the application, make sure you have:
 3. *(Optional)* Free LLM API Keys:
    - **Groq API Key** (100% Free): [console.groq.com/keys](https://console.groq.com/keys)
    - **Google Gemini API Key** (100% Free): [aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
-   > **Note**: If no AI API key is set, the system automatically runs using its built-in **Offline Deterministic Engine** at $0 cost with 0 external network dependencies!
 
 ---
 
