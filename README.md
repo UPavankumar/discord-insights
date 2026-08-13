@@ -20,9 +20,10 @@
 
 Before launching the application, ensure you have:
 1. **Docker & Docker Compose** installed.
-2. Free LLM API Keys (Optional, but recommended for full AI capability):
+2. Free LLM API Keys:
    - **Groq API Key** (100% Free): [console.groq.com/keys](https://console.groq.com/keys)
    - **Google Gemini API Key** (100% Free): [aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
+
 
 ---
 
